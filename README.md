@@ -1,11 +1,21 @@
-# Z® Shoes - Ecommerce Front Page
+# Z® Shoes — Ecommerce Front Page (UI Prototype)
 
-A dummy ecommerce front page inspired by Off-White's design aesthetic. Created for a web design course project using plain HTML and CSS.
 
-This is a static showcase demonstrating layout, typography, and UI design - no backend functionality.
+A concise, static front-page prototype built with plain HTML and CSS that demonstrates the role of considered UI design—layout, scale, and visual hierarchy—in presenting products effectively. The project is a UI-focused implementation; it does not include backend or ecommerce functionality.
 
-**Live Demo:** https://mzzdev.github.io/opium-shop-front/
+Live demo: https://mzzdev.github.io/opium-shop-front/
 
-## Note on Fonts
+## Key points
 
-This project uses commercial typefaces for educational purposes only. These fonts are not licensed for commercial use and are included strictly for academic demonstration and design study.
+- Responsive CSS and dependency-free code
+- Product-focused landing layout with clear visual hierarchy
+- Prominent hero and refined typographic scale
+- Feature grid and minimal navigation for quick scanning
+
+## Notes on fonts
+
+This project uses commercial typefaces for educational purposes only. The included fonts are not licensed for commercial use and are present strictly as part of a design study and portfolio demonstration.
+
+## Attribution and license
+
+This repository is a static UI prototype and does not contain any third-party backend or data. You may reference or fork the code for personal learning and reuse; if you reuse the fonts or visual assets, ensure you have the appropriate licenses.
