@@ -1,20 +1,12 @@
-@font-face {
-  font-family: offTitle;
-  src: url(fuentes/bookish-off-white-regular.woff2);
-}
-
-@font-face {
-  font-family: offMain;
-  src: url(fuentes/IBMPlexMono-Regular.woff2);
-}
-
 * {
   margin: 0;
   box-sizing: border-box;
 }
 
 body {
-  font-family: 'offMain';
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -36,7 +28,7 @@ body {
   gap: 1rem;
 }
 
-.headerTop > * {
+.headerTop>* {
   flex: 1;
   display: flex;
   align-items: center;
@@ -138,7 +130,9 @@ body {
 }
 
 .showcaseText p:first-child {
-  font-family: offTitle;
+  font-family: "Gentium Book Plus", serif;
+  font-weight: 400;
+  font-style: normal;
   font-size: 2rem;
   margin-bottom: 1rem;
 }
@@ -253,7 +247,7 @@ body {
   gap: 2rem;
 }
 
-.corporate > div {
+.corporate>div {
   flex: 1;
   min-width: 15.625rem;
 }
@@ -363,7 +357,7 @@ body {
     gap: 1.5rem;
   }
 
-  .corporate > div {
+  .corporate>div {
     min-width: 100%;
   }
 
